@@ -10,3 +10,24 @@
 @import "layout";
 
 // Media queries
+@media screen and (max-width: 468px) {
+  body {
+    margin: 1rem;
+  }
+  .header {
+    &__box {
+      width: 90%;
+    }
+    &__title {
+      font-size: 2.8rem;
+    }
+  }
+  .search {
+    input {
+      font-size: 1rem;
+    }
+    p {
+      display: none;
+    }
+  }
+}
