@@ -77,6 +77,62 @@
   }
 }
 
+.customer {
+  &__title {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    font-size: 3.6rem;
+    line-height: 2.6rem;
+    display: flex;
+    align-items: center;
+  }
+  &__paragraph {
+    font-family: "Aleo", serif;
+    color: $paragraph-white;
+    font-weight: 400;
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+  }
+}
+
+.travel {
+  &__title {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 2.6rem;
+    text-transform: uppercase;
+    color: $header-white;
+  }
+  &__paragraph {
+    font-family: "Josefin Sans", sans-serif;
+    color: $paragraph-white;
+    font-weight: 400;
+    letter-spacing: 0.16rem;
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+  }
+}
+
+.madrid {
+  &__title {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 2.6rem;
+    text-transform: uppercase;
+    color: $header-white;
+  }
+  &__paragraph {
+    font-family: "Josefin Sans", sans-serif;
+    color: $paragraph-white;
+    font-weight: 400;
+    letter-spacing: 0.16rem;
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+  }
+}
+
 .footer {
   &__box h3 {
     font-family: "Josefin Sans", sans-serif;

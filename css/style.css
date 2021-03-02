@@ -59,6 +59,50 @@
   line-height: 2.6rem;
   text-align: center; }
 
+.customer__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 3.6rem;
+  line-height: 2.6rem;
+  display: flex;
+  align-items: center; }
+.customer__paragraph {
+  font-family: "Aleo", serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.travel__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.travel__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.madrid__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.madrid__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
 .footer__box h3 {
   font-family: "Josefin Sans", sans-serif;
   font-weight: 700;
@@ -157,6 +201,50 @@ body {
   line-height: 2.6rem;
   text-align: center; }
 
+.customer__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 3.6rem;
+  line-height: 2.6rem;
+  display: flex;
+  align-items: center; }
+.customer__paragraph {
+  font-family: "Aleo", serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.travel__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.travel__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.madrid__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.madrid__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
 .footer__box h3 {
   font-family: "Josefin Sans", sans-serif;
   font-weight: 700;
@@ -239,6 +327,50 @@ body {
   font-size: 3.6rem;
   line-height: 2.6rem;
   text-align: center; }
+
+.customer__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 3.6rem;
+  line-height: 2.6rem;
+  display: flex;
+  align-items: center; }
+.customer__paragraph {
+  font-family: "Aleo", serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.travel__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.travel__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.madrid__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.madrid__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
 
 .footer__box h3 {
   font-family: "Josefin Sans", sans-serif;
@@ -330,6 +462,50 @@ body {
   line-height: 2.6rem;
   text-align: center; }
 
+.customer__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 3.6rem;
+  line-height: 2.6rem;
+  display: flex;
+  align-items: center; }
+.customer__paragraph {
+  font-family: "Aleo", serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.travel__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.travel__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.madrid__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.madrid__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
 .footer__box h3 {
   font-family: "Josefin Sans", sans-serif;
   font-weight: 700;
@@ -412,6 +588,50 @@ body {
   font-size: 3.6rem;
   line-height: 2.6rem;
   text-align: center; }
+
+.customer__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 3.6rem;
+  line-height: 2.6rem;
+  display: flex;
+  align-items: center; }
+.customer__paragraph {
+  font-family: "Aleo", serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.travel__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.travel__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.madrid__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.madrid__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
 
 .footer__box h3 {
   font-family: "Josefin Sans", sans-serif;
@@ -518,6 +738,50 @@ body {
   line-height: 2.6rem;
   text-align: center; }
 
+.customer__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 3.6rem;
+  line-height: 2.6rem;
+  display: flex;
+  align-items: center; }
+.customer__paragraph {
+  font-family: "Aleo", serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.travel__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.travel__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.madrid__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.madrid__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
 .footer__box h3 {
   font-family: "Josefin Sans", sans-serif;
   font-weight: 700;
@@ -600,6 +864,50 @@ body {
   font-size: 3.6rem;
   line-height: 2.6rem;
   text-align: center; }
+
+.customer__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 3.6rem;
+  line-height: 2.6rem;
+  display: flex;
+  align-items: center; }
+.customer__paragraph {
+  font-family: "Aleo", serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.travel__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.travel__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
+
+.madrid__title {
+  font-family: "Josefin Sans", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
+  line-height: 2.6rem;
+  text-transform: uppercase;
+  color: #fff; }
+.madrid__paragraph {
+  font-family: "Josefin Sans", sans-serif;
+  color: #e8e8e8;
+  font-weight: 400;
+  letter-spacing: 0.16rem;
+  font-size: 1.6rem;
+  line-height: 2.6rem; }
 
 .footer__box h3 {
   font-family: "Josefin Sans", sans-serif;
@@ -711,6 +1019,9 @@ body {
     background-color: #5474fd;
     border: none;
     width: 22rem; }
+    .choices__btn:hover {
+      transform: scale(1.2);
+      transition: ease-in-out 0.2s; }
   .choices__images {
     display: grid;
     gap: 1.8rem;
@@ -766,18 +1077,103 @@ body {
   height: 70rem;
   background: url("../img/spain.jpg") no-repeat center;
   background-size: cover; }
+  .travel__box {
+    width: 70%;
+    height: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; }
+  .travel__text {
+    background-color: rgba(51, 51, 51, 0.9);
+    width: 54rem;
+    min-height: 36rem;
+    padding: 3em; }
+  .travel__btn {
+    margin-top: 2rem;
+    font-family: "Aleo", serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+    color: #fff;
+    line-height: 2.6rem;
+    text-align: center;
+    letter-spacing: 0.12rem;
+    padding: 1em 1.2em;
+    text-transform: uppercase;
+    background-color: #5474fd;
+    border: none;
+    width: 22rem; }
+    .travel__btn:hover {
+      transform: scale(1.2);
+      transition: ease-in-out 0.2s; }
 
 .madrid {
   width: 100%;
   height: 70rem;
   background: url("../img/madrid.jpg") no-repeat center;
   background-size: cover; }
+  .madrid__box {
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end; }
+  .madrid__text {
+    background-color: rgba(51, 51, 51, 0.9);
+    width: 54rem;
+    height: auto;
+    padding: 3em; }
+  .madrid__btn {
+    margin-top: 2rem;
+    font-family: "Aleo", serif;
+    font-weight: 400;
+    font-size: 1.6rem;
+    color: #fff;
+    line-height: 2.6rem;
+    text-align: center;
+    letter-spacing: 0.12rem;
+    padding: 1em 1.2em;
+    text-transform: uppercase;
+    background-color: #5474fd;
+    border: none;
+    width: 22rem; }
+    .madrid__btn:hover {
+      transform: scale(1.2);
+      transition: ease-in-out 0.2s; }
 
 .customer {
   width: 100%;
   height: 73rem;
   background: url("../img/tourist-hero.jpg") no-repeat center;
-  background-size: cover; }
+  background-size: cover;
+  display: flex;
+  align-items: center; }
+  .customer__wrapper {
+    width: 90%;
+    height: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center; }
+  .customer__box {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto; }
+  .customer__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgba(51, 51, 51, 0.9);
+    width: 66.8rem;
+    min-height: 30rem;
+    padding: 3em; }
+
+.quote {
+  color: #496bfe;
+  font-size: 3.6rem; }
 
 @media screen and (max-width: 468px) {
   body {
