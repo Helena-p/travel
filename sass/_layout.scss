@@ -77,8 +77,8 @@
     object-fit: cover;
   }
   &__box {
-    width: 80%;
-    height: 70%;
+    width: 90%;
+    height: 80%;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
@@ -96,16 +96,17 @@
     @include btn;
   }
   &__images {
-    display: flex;
-    width: 40%;
-    height: 95%;
-    :nth-child(1) {
-      align-self: flex-start;
-    }
-    :last-child {
-      justify-self: flex-end;
-      align-self: flex-end;
-    }
+    display: grid;
+    gap: 1.8rem;
+    grid-template-areas:
+      "a a . "
+      ". b b";
+  }
+  &__imgOne {
+    grid-area: a;
+  }
+  &__imgTwo {
+    grid-area: b;
   }
 }
 

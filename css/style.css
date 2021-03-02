@@ -386,8 +386,8 @@ body {
     background: url("../img/choose-hero.jpg") no-repeat center;
     object-fit: cover; }
   .choices__box {
-    width: 80%;
-    height: 70%;
+    width: 90%;
+    height: 80%;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
@@ -413,14 +413,13 @@ body {
     border: none;
     width: 22rem; }
   .choices__images {
-    display: flex;
-    width: 40%;
-    height: 95%; }
-    .choices__images :nth-child(1) {
-      align-self: flex-start; }
-    .choices__images :last-child {
-      justify-self: flex-end;
-      align-self: flex-end; }
+    display: grid;
+    gap: 1.8rem;
+    grid-template-areas: "a a . " ". b b"; }
+  .choices__imgOne {
+    grid-area: a; }
+  .choices__imgTwo {
+    grid-area: b; }
 
 .selection {
   width: 100%;
