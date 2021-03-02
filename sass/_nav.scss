@@ -5,21 +5,23 @@
   width: 100%;
   height: 8rem;
   background-color: $button-blue;
+  position: sticky;
+}
 
-  &__wrapper {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 70%;
-    height: 100%;
-    margin: auto;
+.navbar {
+  &-nav {
+    color: $header-white;
   }
-  &__links {
-    display: flex;
-    align-items: center;
-    gap: 2rem;
-    list-style-type: none;
-    text-decoration: none;
+  &-brand {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 2.6rem;
+    letter-spacing: 0.24rem;
+    text-transform: uppercase;
+    color: $header-white;
+  }
+  &-toggler-icon {
     color: $header-white;
   }
 }
