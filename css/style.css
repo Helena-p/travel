@@ -401,6 +401,9 @@ body {
   .navbar-toggler-icon {
     color: #fff; }
 
+.fa-bars {
+  font-size: 3rem; }
+
 .nav-link {
   color: #fff; }
 
