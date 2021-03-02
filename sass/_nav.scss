@@ -9,7 +9,11 @@
   height: 8rem;
   background-color: $button-blue;
   width: 100%;
-  &-toggler {
+  &-toggler-icon {
     color: $header-white;
   }
+}
+
+.nav-link {
+  color: $header-white;
 }

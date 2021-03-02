@@ -398,8 +398,11 @@ body {
   height: 8rem;
   background-color: #5474fd;
   width: 100%; }
-  .navbar-toggler {
+  .navbar-toggler-icon {
     color: #fff; }
+
+.nav-link {
+  color: #fff; }
 
 .header__title {
   font-family: "Josefin Sans", sans-serif;
