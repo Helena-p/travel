@@ -1188,6 +1188,12 @@ body {
     font-size: 1rem; }
   .search p {
     display: none; } }
+@media screen and (max-width: 500px) {
+  .madrid__box {
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    margin: auto; } }
 @media screen and (max-width: 740px) {
   .selection {
     padding: 3em;
