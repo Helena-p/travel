@@ -1,0 +1,25 @@
+@import "color";
+@import "font";
+
+.nav {
+  width: 100%;
+  height: 8rem;
+  background-color: $button-blue;
+
+  &__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+    height: 100%;
+    margin: auto;
+  }
+  &__links {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    list-style-type: none;
+    text-decoration: none;
+    color: $header-white;
+  }
+}
