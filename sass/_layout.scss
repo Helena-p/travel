@@ -67,18 +67,20 @@
 // Why choose us
 .choices {
   width: 100%;
+  height: 70rem;
   display: flex;
   align-items: center;
 
   &__img {
     width: 100%;
-    height: 68.5rem;
+    height: 70rem;
     background: url("../img/choose-hero.jpg") no-repeat center;
     object-fit: cover;
+    // background-color: $icon-bg;
   }
   &__box {
     width: 90%;
-    height: 80%;
+    height: auto;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
@@ -121,22 +123,52 @@
   &__box1 {
     @include icon-box;
     i {
+      color: $dark-blue;
       font-size: 8rem;
+      margin-bottom: 2.4rem;
     }
   }
   &__box2 {
     @include icon-box;
     i {
+      color: $red;
       font-size: 8rem;
+      margin-bottom: 2.4rem;
     }
   }
   &__box3 {
     @include icon-box;
     i {
+      color: $thumbs-up;
       font-size: 8rem;
+      margin-bottom: 2.4rem;
     }
   }
 }
+.box-search {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
 // Destinations
+.travel {
+  width: 100%;
+  height: 70rem;
+  background: url("../img/spain.jpg") no-repeat center;
+  background-size: cover;
+}
 
+.madrid {
+  width: 100%;
+  height: 70rem;
+  background: url("../img/madrid.jpg") no-repeat center;
+  background-size: cover;
+}
 // Clients
+.customer {
+  width: 100%;
+  height: 73rem;
+  background: url("../img/tourist-hero.jpg") no-repeat center;
+  background-size: cover;
+}

@@ -1,0 +1,29 @@
+@import "color";
+@import "mixin";
+@import "font";
+
+.footer {
+  width: 100%;
+  height: 30rem;
+  background-color: $footer-bg;
+  &__box {
+    display: flex;
+    width: 100%;
+    height: 80%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  &__icons {
+    display: flex;
+  }
+  &__links {
+    width: 20rem;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    :hover {
+      @include hover;
+    }
+  }
+}

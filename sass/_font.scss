@@ -76,3 +76,31 @@
     text-align: center;
   }
 }
+
+.footer {
+  &__box h3 {
+    font-family: "Josefin Sans", sans-serif;
+    font-weight: 700;
+    font-size: 2.4rem;
+    line-height: 2.6rem;
+    color: $header-white;
+    letter-spacing: 0.33rem;
+    text-transform: uppercase;
+  }
+  &__box p {
+    font-family: "Josefin Sans", sans-serif;
+    color: $header-white;
+    font-weight: 400;
+    letter-spacing: 0.16rem;
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+  }
+  &__links i {
+    color: $paragraph-white;
+    font-size: 1.6rem;
+  }
+}
+
+.linkedin i {
+  color: blue;
+}
